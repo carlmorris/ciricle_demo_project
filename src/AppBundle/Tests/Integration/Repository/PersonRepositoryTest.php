@@ -42,4 +42,8 @@ class PersonRepositoryTest extends WebTestCase
 
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> step-04/fix-database-test
